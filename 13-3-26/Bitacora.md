@@ -46,4 +46,5 @@ Esto provoca que algunas personas no reciban recomendaciones completamente ajust
 
 6. Con el paso del tiempo, si el cliente desea modificar sus objetivos o si el progreso requiere ajustes, el entrenador debe revisar nuevamente la información del cliente y realizar cambios manuales en la rutina o en las recomendaciones alimenticias.
 
+### Captura de Evidencia
 ![alt text](image.png)
